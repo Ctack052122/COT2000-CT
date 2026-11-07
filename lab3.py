@@ -1,6 +1,6 @@
 name = "Calvin Tack"
-numbers = {1000, 2000, 3000, 4000, 5000}
+numbers = {18, 26, 3, 4, 5}
 campus = "Boca Raton"
 print("Student:", name)
 print("Numbers:", numbers)
-print("Campus:", campus)
+print("Total:", sum(numbers))
