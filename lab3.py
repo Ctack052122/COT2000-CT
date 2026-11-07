@@ -4,3 +4,4 @@ campus = "Boca Raton"
 print("Student:", name)
 print("Numbers:", numbers)
 print("Total:", sum(numbers))
+print("Favorite course: Calculus II")
